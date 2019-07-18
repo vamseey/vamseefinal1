@@ -331,6 +331,12 @@
 						"type": "DatasetReference"
 					}
 				}
+			},
+			{
+				"name": "Append Variable1",
+				"type": "AppendVariable",
+				"dependsOn": [],
+				"userProperties": []
 			}
 		],
 		"annotations": []
